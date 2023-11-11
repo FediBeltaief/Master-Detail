@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Master_Detail.P1" BackgroundColor="Red" >
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                     HorizontalOptions="Center">
+            <Label Text="Page1" FontSize="Title"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
